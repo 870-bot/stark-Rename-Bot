@@ -1,5 +1,5 @@
 # Rename-Bot
-This is a very simple Telegram Files Rename Bot by [@AbirHasan2005](https://t.me/AbirHasan2005).
+This is a very simple Telegram Files Rename Bot by [@STARK_GANESH_101](https://t.me/STARK_GANESH_101).
 
 ## Features
 - Rename Videos, Documents or Audios without downloading the file.
@@ -12,7 +12,7 @@ This is a very simple Telegram Files Rename Bot by [@AbirHasan2005](https://t.me
 - Use Default Video Thumbnail after Rename. It will not Generate New if Video already has thumbnail.
 - Heroku Deployable :)
 
-### BotFather Commands:
+### BotFather Commands:l
 ```
 start - Start Bot
 help - How to use this bot?
@@ -37,7 +37,7 @@ Easy to Deploy to Heroku.
 
 Press Below Button to Deploy!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aadhi000/OP-Rename-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/870-bot/stark-Rename-Bot/tree/main)
 
 #### Thanks to [subinps](https://github.com/subinps) for helping
 #### Inspired from [@HK_Rename_Bot](https://t.me/HK_Rename_Bot) & [@AHToolsBot](https://t.me/AHToolsBot)
@@ -57,5 +57,5 @@ Press Below Button to Deploy!
 </p>
 
 
-<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [ᴀᴀᴅʜɪ](https://telegram.dog/AboutAadhi) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/_aadil_m__/) | [ɢɪᴛʜᴜʙ](GitHub.com/Aadhi000)</b>                                                                                                                                                                                    
-<b>ᴄʜᴀɴɴᴇʟ ›› [ᴍᴡ ᴜᴘᴅᴀᴛᴇᴢ](https://t.me/MWUpdatez)</b>
+<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [STARK](https://t.me/+d2wwTwVAbwhjMjA1) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/yuji_itadori_ga?igsh=MWlrbXk4MjczYjE0Mg==) | [ɢɪᴛʜᴜʙ](https://github.com/870-bot/stark-Rename-Bot/tree/main)</b>                                                                                                                                                                                    
+<b>ᴄʜᴀɴɴᴇʟ ›› [ᴍᴡ ᴜᴘᴅᴀᴛᴇᴢ](https://t.me/Anime_sphere_city)</b>
